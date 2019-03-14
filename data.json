@@ -1,0 +1,9 @@
+{
+  "hoge": "moge",
+  "foo": {
+    "bar": "baz",
+    "fuga": {
+      "piyo": "abc"
+    }
+  }
+}
